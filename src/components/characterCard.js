@@ -3,7 +3,7 @@ import './CharacterCard.css';
 
 function CharacterCard(props) {
   return (
-    <img class='card' alt={props.id} src={props.image} onClick={props.imageClick} />
+    <img className='card' alt={props.id} src={props.image} onClick={props.imageClick} />
   )
 }
 

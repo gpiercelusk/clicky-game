@@ -2,11 +2,11 @@ import React from 'react';
 
 function Footer() {
   return (
-    <footer className='footer is-warning'>
+    <footer className='footer is-fixed-bottom'>
       <div className='content has-text-centered'>
-        <p>
-          <strong>Game</strong> by <a href='https://github.com/gpiercelusk/clicky-game'>G. Pierce Lusk</a>
-        </p>
+        <a href="https://github.com/gpiercelusk/clicky-game" id="githubLink">
+          <h5> G. Pierce Lusk 2019</h5>
+        </a>
       </div>
     </footer>
   )

@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(http://www.sclance.com/backgrounds/regular-show-background/regular-show-background_1906126.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Mali', cursive;
 }
 
 code {
