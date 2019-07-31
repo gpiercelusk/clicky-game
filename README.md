@@ -6,6 +6,10 @@ A Regular Show themed "memory game"
 User is presented with 12 images. In order to achieve the highest possible score, they must click each image only once. If an image is clicked twice, the game resets.
 
 
+## Demo
+
+[Play Game](https://dry-earth-98207.herokuapp.com/)
+
 ### Instructions
 
 1. Click on any character to start the game and score a point.
@@ -26,6 +30,3 @@ User is presented with 12 images. In order to achieve the highest possible score
 
 
 
-## Demo
-
-[Play Game](https://dry-earth-98207.herokuapp.com/)
